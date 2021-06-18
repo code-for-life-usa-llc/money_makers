@@ -5,13 +5,14 @@ body{
 
     color: whitesmoke
 }
-h1{
 
-  font-family: cursive;
+h2{
+font-family: cursive;
 }
+
 img{
   
-  float: right;
+  float:right
 }
 
 p{
@@ -70,7 +71,7 @@ ul{
   
   li a:hover{
   
-  background-color: black;
+  background-color: lightskyblue;
   
   }
   

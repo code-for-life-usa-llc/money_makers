@@ -7,15 +7,20 @@ body{
 h3{
 font-family: cursive;
     color: white;
-    text-align: start;
-    justify-content: space-around;
-    
+    text-align: center
 }
-h6{
 
-  text-align: left;
-  color: whitesmoke;
-  font-family: cursive;
+h2{
+color: whitesmoke;
+text-align: ;
+}
+
+
+
+
+h6{
+color: whitesmoke;
+text-align: inherit;
 }
 
 img{
@@ -37,7 +42,7 @@ ul{
     margin:0;
     padding:0;
     overflow:hidden; 
-    background-color: b;
+    background-color: ;
     position:sticky
                 
     }
@@ -123,13 +128,7 @@ figure {
 }
 
 
-div {
-  width: 1000px;
-  border: 15px solid whitesmoke ;
-  padding: 20px;
-  margin: 30px;
-  length: 1500px;
-}
+
 
 
 

@@ -1,0 +1,214 @@
+body{
+background-image: url(Thankyou.jpeg);
+
+}
+
+
+h1 {
+    color: lightskyblue;
+    text-align: center;
+    align-self: center;
+    justify-content: center;
+}
+
+p{
+
+color: whitesmoke;
+text-align:center;
+}
+
+h6{
+    text-align: center;
+    color: black;
+}
+
+
+h1{
+    animation: move 3s;
+    -webkit-animation: move 3s;
+  }
+  
+  @keyframes move {
+    from {
+      margin-left: 100%;
+      width: 300%; 
+    }
+  
+    to {
+      margin-left: 0%;
+      width: 100%;
+    }
+  }
+              
+  @-webkit-keyframes move {
+    from {
+      margin-left: 100%;
+      width: 300%; 
+    }
+  
+    to {
+      margin-left: 0%;
+      width: 100%;
+    }
+}
+
+h3 {
+    color: whitesmoke;
+    font-family: cursive;
+}
+
+input[type=text], select, textarea {
+  width: 100%; 
+  padding: 12px; /* Some padding */ 
+  border: 1px solid #ccc; /* Gray border */
+  border-radius: 4px; /* Rounded borders */
+  box-sizing: border-box; 
+  margin-top: 6px; 
+  margin-bottom: 16px;
+  resize: vertical 
+}
+
+
+input[type=submit] {
+  background-color: violet;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+
+.container {
+  border-radius: 5px;
+  background-color: violet;
+  padding: 20px;
+}
+  
+
+
+
+
+   p {
+    animation: move 3s;
+    -webkit-animation: move 3s;
+  }
+  
+  @keyframes move {
+    from {
+      margin-right: 100%;
+      width: 300%; 
+    }
+  
+    to {
+      margin-right: 0%;
+      width: 100%;
+    }
+  }
+              
+  @-webkit-keyframes move {
+    from {
+      margin-right: 100%;
+      width: 300%; 
+    }
+  
+    to {
+      margin-right: 0%;
+      width: 100%;
+    }
+}
+
+h3 {
+    color: whitesmoke;
+    font-family: cursive;
+}
+
+input[type=text], select, textarea {
+  width: 100%; /* Full width */
+  padding: 12px; /* Some padding */ 
+  border: 1px solid #ccc; /* Gray border */
+  border-radius: 4px; /* Rounded borders */
+  box-sizing: border-box; /* Make sure that padding and width stays in place */
+  margin-top: 6px; /* Add a top margin */
+  margin-bottom: 16px; /* Bottom margin */
+  resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
+}
+
+input[type=submit] {
+  background-color: violet;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+
+.container {
+  border-radius: 5px;
+  background-color: violet;
+  padding: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ul{
+  list-style-type: none;
+  margin:0;
+  padding:0;
+  overflow:hidden; 
+  background-color;
+  position:sticky;
+text-align: center;           
+  }
+  li{
+     text-align: center; 
+     justify-content: center;
+
+  }
+  li a{
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 12px 16px;
+  text-decoration: none;
+  text-align: center;
+  }
+  
+  li a:hover{
+  
+  background-color: black;
+  
+  }
