@@ -1,4 +1,110 @@
 body{
-background-image:url(https://dm0qx8t0i9gc9.cloudfront.net/thumbnails/video/TOEwt0C/videoblocks-stock-market-trading-graphic-background-animation-of-chart_bgbdx8ktl_thumbnail-1080_01.png);
+background-image:url(Newpic.jpg)
 
 }
+
+h1 {
+
+text-align: center;
+color: yellow;
+font-family: cursive;
+}
+
+h2 {
+
+    text-align: center;
+    font-family: cursive;
+color: yellow;
+}
+
+    h3 {
+        font-family: cursive;
+        text-align: center;
+        color: yellow;
+    }
+
+        h4 {
+            font-family: cursive;
+            text-align: center;
+           color: yellow;
+        }
+        h5 {
+            font-family: cursive;
+            text-align: center;
+            color: yellow;
+        }    
+            
+            h6 {
+
+                text-align: center;
+                color: yellow
+            }
+
+p {
+    
+    text-align: center;
+    font-family:cursive;
+    color:black;
+
+}
+
+
+
+
+
+
+
+
+img{
+    margin: auto;
+    display: block;
+  }
+}
+
+a{
+    align-items: center ;
+    float:unset
+}
+
+ul{
+    list-style-type: none;
+    margin:0;
+    padding:0;
+    overflow:hidden; 
+    background-color: ;
+    position:sticky
+                
+    }
+    li{
+      float:right;
+        
+    }
+    li a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 12px 16px;
+    text-decoration: none;
+    text-align:left
+    }
+    
+    li a:hover{
+    
+    background-color: lightgreen;
+    
+    }
+
+
+
+
+
+    .black-button{
+
+        padding: 12px 10px;
+        background-color: greenyellow;
+        color: rebeccapurple;
+        text-align: center;
+        
+        }
+
+
